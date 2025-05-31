@@ -1,5 +1,3 @@
-.idea
-*.pyc
 # Stack build artifacts
 .stack-work/
 
@@ -36,4 +34,4 @@ Thumbs.db
 *.tmp
 *.exe
 *.bin
-*.dump
+*.dumps
